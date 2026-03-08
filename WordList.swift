@@ -32,28 +32,9 @@ struct WordList {
             "Kangaroo",
             "Bear"
         ],
-        "AD": [
-            "Alfred",
-            "alfin",
-            "sanoop",
-            "alwin",
-            "ullas",
-            "johnu",
-            "nishan",
-            "sanay",
-            "michelle",
-            "rohan",
-            "hari govind bose",
-            "alan issac",
-            "athul",
-            "jairosh",
-            "angela",
-            "anna",
-            "joju",
-            "sanjoe",
-            "nandhu ajith",
-            "suni"
-        ],
+
+
+        
         "Activities": [
             "Ride a Bike",
             "Go Fishing",
